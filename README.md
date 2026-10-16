@@ -2,7 +2,7 @@
 
 # Fremkit for Homebrew
 
-The Homebrew tap for [Fremkit](https://github.com/fdussert/fremkit), the widget dashboard for the
+The Homebrew tap for [Fremkit](https://fremkit.app), the widget dashboard for the
 Corsair Xeneon Edge on macOS. It holds one cask, which installs the signed, notarized
 `Fremkit.app` from the project's [GitHub releases](https://github.com/fdussert/fremkit/releases).
 
